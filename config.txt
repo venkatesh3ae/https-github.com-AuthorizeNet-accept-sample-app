@@ -1,7 +1,7 @@
 
 ; ** Make sure to add your API credentials as secure environment variables **
-; 3xWC37y2K   
-; 9XrC9n6uJ266zhVJ 
+; SetEnv API_LOGIN_ID 3xWC37y2K  
+; SetEnv TRANSACTION_KEY 9XrC9n6uJ266zhVJ 
 
 ; ** Enter The customer Profile To load details **
 customerProfileId = 40829571
